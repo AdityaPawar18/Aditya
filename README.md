@@ -5,6 +5,4 @@
 
  Hi, I'm Aditya Pawar
 
- 
- A final-year B.Tech Information Technology student with a passion for continuous learning and software development.Love exploring new technologies.
- Feel free to explore, reach out if you'd like to discuss something.
+I am a recent IT Engineering graduate with a strong foundation in software development, data structures, and database management. Throughout my academic journey, I have worked on several academic and personal projects involving web development, Python, Java, and cloud fundamentals. I am passionate about problem-solving, eager to learn new technologies, and looking forward to starting my career in the tech industry where I can apply and expand my skills in a real-world environment.
